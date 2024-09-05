@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+.profile#picture {
+  margin: auto;
+}
+
+footer {
+  text-align: center;
+  background-image: linear-gradient(to right, yellow, orange, purple);
+  table-layout: auto;
+}
